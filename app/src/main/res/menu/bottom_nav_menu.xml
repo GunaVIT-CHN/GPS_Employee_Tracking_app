@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/home_frag"
+
+        />
+    <item android:title="New Shift"
+        android:icon="@drawable/baseline_add_circle_24"
+        android:id="@+id/new_shift_frag"
+        />
+
+    <item android:title="Timesheet"
+        android:icon="@drawable/baseline_time_sheet_24"
+        android:id="@+id/timesheet_frag"
+        />
+</menu>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">GPS_Employee_Tracking</string>
+
+    <!--    Headings-->
+    <string name="heading_one">Welcome to Employee Portal</string>
+    <string name="heading_two">Instant Notifications</string>
+    <string name="heading_three">Always Precise!</string>
+    <string name="heading_fourth">Pay Anywhere</string>
+
+    <!--    Description-->
+    <string name="desc_one">Grow your Business, Connect, manage, and thrive with Employee Portal.</string>
+    <string name="desc_two">Stay informed with instant GPS employee tracking notifications</string>
+    <string name="desc_three">Efficiently track and manage your employees with instant GPS notifications.</string>
+    <string name="desc_fourth">Track employees with complete data privacy and security.</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="send_otp_desc">"We Will send you a one time password on this  Mobile Number"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_employee_maps">Employee_MapsActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
